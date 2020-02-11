@@ -1,0 +1,16 @@
+0
+0 0 <other> <other>
+0 0 <#> <#>
+0 1 c c
+0 1 s s
+1 1 c c
+1 1 s s
+1 2 h h
+1 0 <other> <other>
+1 0 <#> <#>
+2 3 <^> <epsilon>
+2 0 <other> <other>
+2 0 <#> <#>
+3 4 <epsilon> e
+4 5 s s
+5 0 <#> <#>
